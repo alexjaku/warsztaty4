@@ -1,1 +1,1 @@
-Tutaj powstaje sklep internetowy! 
+Tutaj powstaje sklep internetowy! Dodaje tekst
